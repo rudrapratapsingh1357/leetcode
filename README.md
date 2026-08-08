@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
