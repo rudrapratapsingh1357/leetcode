@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0507-perfect-number) |
 ## Brainteaser
 |  |
 | ------- |
