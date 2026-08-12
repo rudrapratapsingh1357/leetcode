@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
