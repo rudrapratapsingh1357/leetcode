@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
