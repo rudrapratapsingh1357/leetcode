@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0443-string-compression) |
