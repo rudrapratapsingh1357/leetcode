@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
