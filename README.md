@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
