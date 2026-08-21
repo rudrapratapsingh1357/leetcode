@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
