@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
