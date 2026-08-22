@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
