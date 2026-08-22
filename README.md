@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
