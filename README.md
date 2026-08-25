@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
