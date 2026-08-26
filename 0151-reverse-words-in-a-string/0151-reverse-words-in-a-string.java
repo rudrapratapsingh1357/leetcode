@@ -7,6 +7,6 @@ class Solution {
             n--;
             ans[n] = word;
         }
-        return String.join(" ", ans);
+        return String.join(" ",ans);
     }
 }
