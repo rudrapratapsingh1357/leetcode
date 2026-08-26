@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0229-majority-element-ii) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0520-detect-capital) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
