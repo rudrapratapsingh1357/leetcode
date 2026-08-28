@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0877-stone-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0520-detect-capital) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
