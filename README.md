@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3163-string-compression-iii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3163-string-compression-iii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
