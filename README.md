@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0217-contains-duplicate) |
