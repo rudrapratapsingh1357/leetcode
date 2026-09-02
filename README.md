@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
