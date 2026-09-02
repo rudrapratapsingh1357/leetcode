@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0877-stone-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -328,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
