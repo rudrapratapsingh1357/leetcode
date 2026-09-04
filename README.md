@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
