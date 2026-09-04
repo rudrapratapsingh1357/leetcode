@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1544-make-the-string-great](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Minimax
 |  |
