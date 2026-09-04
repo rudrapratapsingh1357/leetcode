@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
