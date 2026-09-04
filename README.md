@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -227,12 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
+| [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1544-make-the-string-great](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
+| [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Minimax
 |  |
 | ------- |
