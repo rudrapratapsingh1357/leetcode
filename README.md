@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3163-string-compression-iii) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
