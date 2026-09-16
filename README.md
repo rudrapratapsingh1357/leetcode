@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1544-make-the-string-great](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1544-make-the-string-great) |
