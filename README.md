@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
