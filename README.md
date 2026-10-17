@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rudrapratapsingh1357/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rudrapratapsingh1357/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
