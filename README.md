@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0342-power-of-four) |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
