@@ -10,42 +10,24 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        return sol(head);
-    }
-    public ListNode sol(ListNode head)
-    {
-        Stack<ListNode>s=new Stack();
-        ListNode temp=head;
-        while(temp!=null)
-        {
-            s.push(temp);
-temp=temp.next;
-        }
-        temp=head;
-        int cnt=s.size()/2;
-        while(cnt-->0)
-        {
-            int val=s.peek().val;
-            s.pop().val=temp.val;
-            temp.val=val;
-            temp=temp.next;
-        }
+        
+        sol(head,head);
         return head;
     }
+    public ListNode sol(ListNode temp,ListNode head)
+    {
+        if(temp==null)
+        {
+            return head;
+        }
+        ListNode res=sol(temp.next,head);
+        if(res==null)return null;
+        if(res==temp)return null;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    int val=temp.val;
+    temp.val=res.val;
+    res.val=val;
+    if(res.next==temp)return null;
+    return res.next;
+    }
 }
