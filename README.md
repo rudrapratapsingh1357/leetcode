@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0078-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rudrapratapsingh1357/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
